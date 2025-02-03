@@ -405,10 +405,12 @@ span{
    
   }
   
-.service-info p{
+  .service-info p{
     margin-top: 10px;
     font-weight: 500;
     font-size: 12px;
+
+  }
   input[type="number"] {
     -moz-appearance: textfield; /* Para navegadores Firefox */
     -webkit-appearance: none; /* Para navegadores baseados no WebKit, como Chrome e Safari */
@@ -606,7 +608,7 @@ span{
      flex-direction: column;
       
     }
-     .service-box img{
+    .service-box img{
       width: 150%;
       margin: 10px auto;
       transform: translateX(-15%);
