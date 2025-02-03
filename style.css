@@ -609,4 +609,17 @@ span{
      flex-direction: column;
       
     }
+     .service-box img{
+      width: 150%;
+      margin: 10px auto;
+      transform: translateX(-15%);
+  
+    }
+    .service-info h4{
+      margin-bottom: 10px;
+      line-height: 15px;
+    }
+    .service-info p{
+      margin-top: 20px;
+    }
   }
