@@ -405,13 +405,10 @@ span{
    
   }
   
-  .services-info p{
-    font-size: 2rem;
-    font-weight: 600;
-    max-height: 100px;
-    line-height: 1.7;
-    margin: auto;
-  }
+.service-info p{
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 12px;
   input[type="number"] {
     -moz-appearance: textfield; /* Para navegadores Firefox */
     -webkit-appearance: none; /* Para navegadores baseados no WebKit, como Chrome e Safari */
